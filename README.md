@@ -1,2 +1,2 @@
 # Demo
-Learning how to create a New Folder in Git.
+Learning how to create a New Folder in Git!
